@@ -7,7 +7,7 @@ def connect_database():
         port=3306,
         database='visit_wonder',
         user='root',
-        password='Cricketer1',
+        password='1472',
         autocommit=True
     )
 
